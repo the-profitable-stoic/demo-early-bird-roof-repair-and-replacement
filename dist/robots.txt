@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-early-bird-roof-repair-and-replacement.dream-surge.com/sitemap-index.xml

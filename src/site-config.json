@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Early Bird Roof Repair And Replacement",
+    "phone": "+12063393656",
+    "category": "carpenter",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Seattle's Trusted Carpenter Pros",
+      "heroSubline": "Expert craftsmanship for the Emerald City's unique homes. We handle everything from structural repairs to custom carpentry projects.",
+      "aboutTitle": "Crafting Seattle's Future, One Project at a Time",
+      "aboutText": [
+        "Early Bird Roof Repair And Replacement started with a simple mission: to provide Seattle homeowners with reliable, high-quality carpentry services they could depend on. Founded by a Seattle native with a passion for preserving the city's architectural heritage, we've grown into a team of skilled carpenters dedicated to excellence.",
+        "Our approach is rooted in honesty, integrity, and a commitment to exceeding expectations. We believe in clear communication, transparent pricing, and meticulous attention to detail. From the initial consultation to the final nail, we work closely with our clients to ensure their vision becomes a reality.",
+        "We're proud to be a part of the Seattle community and are committed to giving back. We actively support local initiatives and organizations that promote sustainable building practices and affordable housing. We believe in building not only structures but also lasting relationships within our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Seattle's climate and building styles, ensuring durable and beautiful results."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Our team of experienced carpenters delivers exceptional quality on every project."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to completing projects on time and within budget, every time."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Early Bird Roof Repair And Replacement today for a free consultation and estimate. Let's discuss your carpentry needs and bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "structural-repairs",
+        "name": "Structural Repairs",
+        "shortDescription": "Protect your home's integrity with expert structural repair services.",
+        "description": "Seattle's wet climate and seismic activity can take a toll on your home's structural integrity. Early Bird Roof Repair And Replacement provides comprehensive structural repair services to address issues such as wood rot, foundation cracks, and earthquake damage. We meticulously assess the damage, develop a tailored repair plan, and execute the work with precision and care. Our experienced carpenters use high-quality materials and proven techniques to ensure lasting stability and safety for your home.\n\nWe handle everything from minor repairs to major renovations, including beam replacements, foundation reinforcement, and seismic retrofitting. We understand the unique challenges of Seattle's housing stock and are committed to providing solutions that meet your specific needs and budget.\n\nDon't wait until it's too late. Protect your investment and ensure the safety of your family with Early Bird Roof Repair And Replacement's structural repair services. Contact us today for a thorough inspection and a free estimate.",
+        "process": [
+          "Step 1: Thorough inspection to identify structural damage and underlying causes.",
+          "Step 2: Development of a detailed repair plan that addresses all identified issues.",
+          "Step 3: Execution of the repair plan using high-quality materials and expert craftsmanship.",
+          "Step 4: Final inspection to ensure the repairs meet our rigorous standards and your satisfaction."
+        ],
+        "benefits": [
+          "Enhanced safety and stability of your home",
+          "Prevention of further damage and costly repairs",
+          "Increased property value",
+          "Peace of mind knowing your home is structurally sound"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my home needs structural repairs?",
+            "answer": "Signs of structural damage include cracks in walls or ceilings, uneven floors, doors or windows that stick, and visible sagging or bowing. If you notice any of these signs, it's important to have your home inspected by a qualified professional."
+          },
+          {
+            "question": "How long do structural repairs typically take?",
+            "answer": "The duration of structural repairs varies depending on the extent of the damage and the complexity of the project. We'll provide you with a realistic timeline during the initial consultation."
+          },
+          {
+            "question": "Are structural repairs expensive?",
+            "answer": "The cost of structural repairs depends on the scope of the work. However, addressing structural issues early can prevent more extensive and costly damage down the road. We offer flexible financing options to help make repairs more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "custom-decks-patios",
+        "name": "Custom Decks & Patios",
+        "shortDescription": "Elevate your outdoor living space with a custom-designed deck or patio.",
+        "description": "Maximize your enjoyment of Seattle's beautiful summers with a custom-designed deck or patio from Early Bird Roof Repair And Replacement. We specialize in creating stunning outdoor living spaces that seamlessly blend with your home's architecture and your personal style. Whether you envision a cozy backyard retreat or a spacious entertainment area, we can bring your dream to life.\n\nWe work with a variety of materials, including natural wood, composite decking, and durable pavers, to create decks and patios that are both beautiful and long-lasting. We also offer a range of features, such as built-in seating, outdoor kitchens, and custom lighting, to enhance your outdoor experience.\n\nFrom the initial design to the final finishing touches, we handle every aspect of your deck or patio project with meticulous attention to detail. We obtain all necessary permits and ensure that your project meets all local building codes. Let Early Bird Roof Repair And Replacement transform your backyard into an oasis you'll enjoy for years to come.",
+        "process": [
+          "Step 1: Initial consultation to discuss your vision, needs, and budget.",
+          "Step 2: Design and planning phase, including material selection and permit acquisition.",
+          "Step 3: Construction of your custom deck or patio with expert craftsmanship.",
+          "Step 4: Final inspection and walk-through to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved curb appeal",
+          "Customizable design to match your style"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for decks in Seattle's climate?",
+            "answer": "Composite decking is a popular choice for Seattle decks due to its durability and resistance to moisture. Natural wood options, such as cedar and redwood, are also excellent choices when properly treated and maintained."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "In most cases, you will need a permit to build a deck or patio in Seattle. We can handle the permit acquisition process for you to ensure your project meets all local building codes."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The duration of a deck or patio project depends on the size and complexity of the design. We'll provide you with a realistic timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation-repair",
+        "name": "Siding Installation & Repair",
+        "shortDescription": "Protect and beautify your home exterior with expert siding services.",
+        "description": "Seattle's weather can be harsh on your home's siding, leading to damage from moisture, rot, and pests. Early Bird Roof Repair And Replacement offers comprehensive siding installation and repair services to protect your home and enhance its curb appeal. We work with a variety of siding materials, including wood, vinyl, fiber cement, and metal, to provide solutions that meet your specific needs and budget.\n\nWhether you need to repair damaged siding, replace outdated siding, or install new siding on a new construction project, we have the expertise to get the job done right. We meticulously install each piece of siding to ensure a weathertight seal and a beautiful, long-lasting finish.\n\nWe also offer siding maintenance services to help you keep your siding in top condition and prevent costly repairs. Contact Early Bird Roof Repair And Replacement today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Thorough inspection of your existing siding to assess damage and identify underlying issues.",
+          "Step 2: Consultation to discuss your siding options and budget.",
+          "Step 3: Expert installation or repair of your siding using high-quality materials.",
+          "Step 4: Final inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased energy efficiency",
+          "Protection from the elements",
+          "Prevention of water damage and pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "What type of siding is best for Seattle's climate?",
+            "answer": "Fiber cement siding is a popular choice for Seattle homes due to its durability, resistance to moisture, and fire resistance. Vinyl siding is another affordable and low-maintenance option."
+          },
+          {
+            "question": "How often should I replace my siding?",
+            "answer": "The lifespan of your siding depends on the material and the level of maintenance. However, most siding materials will need to be replaced every 20-30 years."
+          },
+          {
+            "question": "How much does it cost to install new siding?",
+            "answer": "The cost of siding installation varies depending on the material, the size of your home, and the complexity of the project. We'll provide you with a detailed estimate during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "window-door-installation",
+        "name": "Window & Door Installation",
+        "shortDescription": "Enhance energy efficiency and aesthetics with professional window and door services.",
+        "description": "Upgrade your home with new, energy-efficient windows and doors from Early Bird Roof Repair And Replacement. We offer a wide selection of windows and doors in various styles and materials to complement your home's architecture and your personal taste. Our expert installers ensure a perfect fit and a weathertight seal, maximizing energy efficiency and minimizing drafts.\n\nWhether you're looking to replace old, drafty windows, install a new front door, or add a sliding glass door to your patio, we have the solutions you need. We work with leading manufacturers to provide high-quality products that are built to last.\n\nWe also offer window and door repair services to address issues such as broken glass, damaged frames, and faulty hardware. Contact Early Bird Roof Repair And Replacement today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Consultation to discuss your window and door needs and preferences.",
+          "Step 2: Selection of windows and doors that meet your budget and style.",
+          "Step 3: Professional installation with attention to detail and energy efficiency.",
+          "Step 4: Final inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can significantly reduce your energy bills by minimizing heat loss in the winter and heat gain in the summer. They also help to reduce noise pollution and improve indoor comfort."
+          },
+          {
+            "question": "What type of windows are best for Seattle's climate?",
+            "answer": "Double-pane windows with low-E coatings are a good choice for Seattle homes due to their energy efficiency and ability to block harmful UV rays."
+          },
+          {
+            "question": "How long does it take to install new windows?",
+            "answer": "The duration of a window installation project depends on the number of windows being replaced and the complexity of the installation. We'll provide you with a realistic timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "cabinetry-installation",
+        "name": "Custom Cabinetry Installation",
+        "shortDescription": "High-quality cabinet installation for kitchens and bathrooms.",
+        "description": "Early Bird Roof Repair And Replacement elevates kitchens and bathrooms with expert custom cabinetry installation. Whether remodeling or building new, we deliver precision and artistry. Seattle homes deserve quality, and we ensure cabinets are perfectly leveled, aligned, and secured for a flawless finish and years of reliable use. We handle all aspects of the installation, from removing existing cabinets to installing new hardware.\n\nOur services include custom design consultations to match homeowner style, efficient project management, and a commitment to minimal disruption. We work with various materials, including wood, laminate, and more, to create functional, beautiful spaces that exceed expectations. With Early Bird Roof Repair And Replacement, homeowners receive top-tier craftsmanship and dedicated customer service, making their vision a reality.",
+        "process": [
+          "Step 1: Detailed consultation to understand your style and functional needs.",
+          "Step 2: Precise measurement and design to maximize space and aesthetics.",
+          "Step 3: Careful removal of old cabinets and preparation of the installation area.",
+          "Step 4: Expert installation of new cabinetry with attention to detail."
+        ],
+        "benefits": [
+          "Enhanced functionality and storage",
+          "Increased home value",
+          "Customized to fit your unique needs",
+          "Improved aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How long does cabinet installation take?",
+            "answer": "Installation time varies based on complexity, but typically ranges from 3-7 days. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What types of materials do you work with?",
+            "answer": "We work with a wide range of materials, including solid wood, plywood, MDF, and laminates, ensuring durability and style."
+          },
+          {
+            "question": "Can you handle custom cabinet designs?",
+            "answer": "Yes, we specialize in custom cabinet designs to perfectly match your space and style. Our design team will work with you to create a unique and functional layout."
+          }
+        ]
+      },
+      {
+        "slug": "dryrot-repair",
+        "name": "Dry Rot Repair",
+        "shortDescription": "Effective dry rot removal and repair to protect your property.",
+        "description": "Early Bird Roof Repair And Replacement specializes in identifying and repairing dry rot damage, a common issue in Seattle's damp climate. We start with a thorough inspection to assess the extent of the damage, addressing both visible and hidden decay. Our expert carpenters then remove the affected wood and treat the surrounding areas to prevent further spread. We replace damaged sections with high-quality, treated lumber to ensure long-term stability.\n\nOur services also include moisture control solutions to mitigate future dry rot issues. We address ventilation problems, repair leaks, and apply protective coatings to vulnerable areas. With Early Bird Roof Repair And Replacement, you can trust that your property is protected from the destructive effects of dry rot, ensuring its structural integrity and value.",
+        "process": [
+          "Step 1: Comprehensive inspection to identify and assess dry rot damage.",
+          "Step 2: Removal of all affected wood and treatment of surrounding areas.",
+          "Step 3: Replacement of damaged sections with high-quality, treated lumber.",
+          "Step 4: Implementation of moisture control solutions to prevent recurrence."
+        ],
+        "benefits": [
+          "Prevents structural damage",
+          "Maintains property value",
+          "Improves air quality",
+          "Ensures safety"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I have dry rot?",
+            "answer": "Signs of dry rot include wood that is crumbling, discolored, or has a musty odor. It often appears in damp or poorly ventilated areas. A professional inspection is the best way to confirm."
+          },
+          {
+            "question": "How fast does dry rot spread?",
+            "answer": "Dry rot can spread quickly under the right conditions, especially in damp, unventilated areas. Early detection and repair are crucial to prevent extensive damage."
+          },
+          {
+            "question": "Can dry rot be completely removed?",
+            "answer": "Yes, with thorough removal of affected wood and proper treatment of the surrounding areas, dry rot can be effectively eliminated. Implementing moisture control measures is also essential to prevent recurrence."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement is proud to offer our expert carpentry services to the residents of Bellevue, Washington. Known for its upscale homes built primarily in the 1980s through the 2000s, Bellevue presents unique challenges and opportunities for maintaining and improving residential properties. We understand the importance of preserving the aesthetic appeal and structural integrity of these homes, providing tailored solutions for everything from minor repairs to complete renovations.\n\nOur team is experienced in working with the architectural styles common in Bellevue, ensuring that all carpentry work seamlessly integrates with the existing design. We are committed to using high-quality materials and proven techniques to deliver lasting results. Whether you need a new deck, custom cabinetry, or structural repairs, Early Bird Roof Repair And Replacement is your trusted partner in Bellevue.",
+        "localContext": "Bellevue experiences mild, wet winters with persistent rain, making durable and weather-resistant carpentry solutions essential for protecting your home.",
+        "nearbyAreas": [
+          "Redmond",
+          "Kirkland",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Redmond",
+        "slug": "redmond-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement provides top-notch carpentry services in Redmond, Washington. With a significant portion of the city's housing centered around the Microsoft campus, Redmond features a mix of modern homes and established neighborhoods. Our skilled carpenters are adept at handling a wide range of projects, from updating interiors to repairing exterior structures. We understand the needs of Redmond homeowners and are dedicated to delivering exceptional craftsmanship.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction. Whether you're looking to enhance your home's value or address necessary repairs, Early Bird Roof Repair And Replacement offers reliable and professional carpentry services in Redmond. We use only the best materials and employ proven techniques to ensure lasting results.",
+        "localContext": "Redmond's climate is characterized by mild, wet winters, making it crucial to have carpentry work that can withstand the elements and prevent water damage.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Kirkland",
+          "Woodinville"
+        ]
+      },
+      {
+        "city": "Kirkland",
+        "slug": "kirkland-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement is pleased to serve the residents of Kirkland, Washington, with our expert carpentry services. Known for its beautiful waterfront homes along Lake Washington, Kirkland presents unique challenges and opportunities for maintaining and enhancing properties. We understand the importance of preserving the aesthetic appeal and structural integrity of these homes, providing tailored solutions for everything from dock repairs to complete home renovations.\n\nOur team is experienced in working with the various architectural styles found in Kirkland, ensuring that all carpentry work seamlessly integrates with the existing design. We are committed to using high-quality materials and proven techniques to deliver lasting results. Whether you need a new deck, custom cabinetry, or structural repairs, Early Bird Roof Repair And Replacement is your trusted partner in Kirkland.",
+        "localContext": "Kirkland's waterfront location and mild, wet winters necessitate durable and weather-resistant carpentry solutions to protect homes from the elements.",
+        "nearbyAreas": [
+          "Redmond",
+          "Bellevue",
+          "Kenmore"
+        ]
+      },
+      {
+        "city": "Tacoma",
+        "slug": "tacoma-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement extends its carpentry services to Tacoma, Washington, offering expert craftsmanship to homeowners throughout the city. Tacoma boasts a rich architectural heritage, including many 1900s-20s Craftsman homes, particularly in the Stadium District. We are experienced in working with these historic homes, providing sensitive and appropriate repairs and renovations that preserve their original character.\n\nOur team is dedicated to providing high-quality carpentry services that meet the unique needs of Tacoma residents. Whether you need to restore original woodwork, repair structural damage, or add modern amenities, Early Bird Roof Repair And Replacement is your trusted partner. We prioritize customer satisfaction and ensure that every project is completed to the highest standards.",
+        "localContext": "Tacoma's climate, with its mild, wet winters, requires carpentry solutions that are both durable and able to withstand the elements, especially for older homes.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Puyallup",
+          "Federal Way"
+        ]
+      },
+      {
+        "city": "Bothell",
+        "slug": "bothell-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement proudly serves the city of Bothell, Washington, providing a wide range of carpentry services to meet the needs of its residents. Bothell is characterized by its suburban developments from the 1980s and 1990s, offering a diverse range of housing styles. Our skilled carpenters are experienced in working on these homes, providing expert repairs, renovations, and new construction services.\n\nWe understand the importance of maintaining and improving your home's value, and we are committed to delivering exceptional craftsmanship and customer service. Whether you need a new deck, updated kitchen cabinets, or structural repairs, Early Bird Roof Repair And Replacement is your trusted partner in Bothell. We use only the highest quality materials and employ proven techniques to ensure lasting results.",
+        "localContext": "Bothell's climate, with mild, wet winters, necessitates carpentry solutions that are durable and resistant to moisture damage to protect your home.",
+        "nearbyAreas": [
+          "Woodinville",
+          "Kenmore",
+          "Mill Creek"
+        ]
+      },
+      {
+        "city": "Seattle",
+        "slug": "seattle-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement is your go-to carpentry service provider in Seattle, Washington. From historic Victorian homes in Capitol Hill to modern residences in South Lake Union, Seattle's diverse architecture demands versatile carpentry skills. We're equipped to handle any project, big or small, ensuring top-quality workmanship and customer satisfaction.\n\nWe understand the unique challenges of Seattle's climate and terrain, and we use only the best materials to ensure your carpentry work stands the test of time. Whether you need deck repair, custom cabinetry, or structural enhancements, Early Bird Roof Repair And Replacement is here to help.",
+        "localContext": "Seattle's rainy climate necessitates durable, weather-resistant carpentry to protect homes from moisture and rot.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Shoreline",
+          "Renton"
+        ]
+      },
+      {
+        "city": "Renton",
+        "slug": "renton-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement is dedicated to providing exceptional carpentry services to the residents of Renton, Washington. With its mix of established neighborhoods and new developments, Renton offers a variety of homes that benefit from our expertise. We are experienced in handling all types of carpentry projects, from minor repairs to major renovations.\n\nOur team is committed to delivering high-quality workmanship and outstanding customer service. Whether you need a new fence, updated kitchen cabinets, or structural repairs, Early Bird Roof Repair And Replacement is your trusted partner in Renton. We use only the best materials and employ proven techniques to ensure lasting results.",
+        "localContext": "Renton's climate can be wet, making it important to have carpentry work that is weather-resistant and properly maintained.",
+        "nearbyAreas": [
+          "Seattle",
+          "Kent",
+          "Tukwila"
+        ]
+      },
+      {
+        "city": "Shoreline",
+        "slug": "shoreline-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement is pleased to offer our expert carpentry services to the community of Shoreline, Washington. Known for its beautiful parks and residential neighborhoods, Shoreline presents unique opportunities for enhancing homes with quality carpentry. We understand the importance of preserving the value and aesthetic appeal of your property.\n\nOur team is experienced in working with a variety of architectural styles, ensuring that all carpentry work seamlessly integrates with your home's design. We are committed to using high-quality materials and proven techniques to deliver lasting results. Whether you need a new deck, custom shelving, or structural repairs, Early Bird Roof Repair And Replacement is your trusted partner in Shoreline.",
+        "localContext": "Shoreline's proximity to the Puget Sound and its wet winters require durable and weather-resistant carpentry solutions to protect homes from the elements.",
+        "nearbyAreas": [
+          "Seattle",
+          "Edmonds",
+          "Lake Forest Park"
+        ]
+      },
+      {
+        "city": "Snoqualmie",
+        "slug": "snoqualmie-wa",
+        "state": "WA",
+        "content": "Early Bird Roof Repair And Replacement extends its carpentry services to Snoqualmie, Washington, offering expert craftsmanship to homeowners throughout the city. With its picturesque scenery and growing residential areas, Snoqualmie boasts a variety of home styles. We are experienced in working with these homes, providing sensitive and appropriate repairs and renovations that enhance their value.\n\nOur team is dedicated to providing high-quality carpentry services that meet the unique needs of Snoqualmie residents. Whether you need to repair structural damage, or add modern amenities, Early Bird Roof Repair And Replacement is your trusted partner. We prioritize customer satisfaction and ensure that every project is completed to the highest standards.",
+        "localContext": "Snoqualmie's climate, with its wet winters, requires carpentry solutions that are both durable and able to withstand the elements, especially for protecting against moisture damage.",
+        "nearbyAreas": [
+          "North Bend",
+          "Fall City",
+          "Carnation"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Structural Repairs",
+        "text": "Early Bird Roof Repair And Replacement saved my home! I had some serious wood rot in my foundation, and they came in, assessed the damage quickly, and got to work. The crew was professional, efficient, and kept me informed every step of the way. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Custom Deck",
+        "text": "We hired Early Bird Roof Repair And Replacement to build a new deck, and we're very happy with the results. The design process was collaborative, and the construction was solid. There were a couple of minor delays due to weather, but they communicated well and kept the project on track. Great job!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "Our old siding was falling apart, and Early Bird Roof Repair And Replacement did an excellent job replacing it. The crew was meticulous and paid attention to every detail. Our house looks brand new, and we've already noticed a difference in our energy bills. Thank you!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Window Installation",
+        "text": "Early Bird Roof Repair And Replacement installed new windows in our entire house, and we couldn't be happier. The windows are beautiful, energy-efficient, and have made a huge difference in the comfort of our home. The installation team was professional, courteous, and cleaned up thoroughly after the job.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Cabinetry Installation",
+        "text": "We had Early Bird Roof Repair And Replacement install new cabinets in our kitchen, and the results are fantastic. The cabinets are well-made, and the installation was precise. The only reason I'm not giving a 5-star review is that there were a few minor communication issues, but overall, we're very satisfied.",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Dry Rot Repair",
+        "text": "I had a serious dry rot problem in my bathroom, and Early Bird Roof Repair And Replacement took care of it quickly and efficiently. They were thorough in their assessment and repair, and I feel confident that the problem is resolved. I highly recommend their services!",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Early Bird Roof Repair And Replacement | Seattle Carpenter",
+        "description": "Trusted Seattle carpenters for structural repairs, decks, siding, windows & doors. Quality craftsmanship & reliable service."
+      },
+      "about": {
+        "title": "About Early Bird Roof Repair And Replacement",
+        "description": "Learn about Early Bird Roof Repair And Replacement's commitment to quality carpentry in Seattle. Local experts you can trust."
+      },
+      "services": {
+        "title": "Seattle Carpenter Services | Early Bird Roof Repair And Replacement",
+        "description": "Comprehensive carpentry services in Seattle: structural repairs, decks, siding, windows, cabinetry & more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Early Bird Roof Repair And Replacement",
+        "description": "Get in touch with Early Bird Roof Repair And Replacement for your Seattle carpentry needs. Call +12063393656 for a free consultation."
+      },
+      "reviews": {
+        "title": "Early Bird Roof Repair And Replacement Reviews",
+        "description": "Read what our Seattle customers are saying about Early Bird Roof Repair And Replacement. Quality carpentry services & customer satisfaction."
+      },
+      "service-areas": {
+        "title": "Service Areas | Early Bird Roof Repair And Replacement",
+        "description": "Early Bird Roof Repair And Replacement provides carpenter services in Seattle, Bellevue, Redmond, Kirkland, Tacoma, and Bothell."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "structural-repairs": "/images/service-structural-repairs.webp",
+      "custom-decks-patios": "/images/service-custom-decks-patios.webp",
+      "siding-installation-repair": "/images/service-siding-installation-repair.webp",
+      "window-door-installation": "/images/service-window-door-installation.webp",
+      "cabinetry-installation": "/images/service-cabinetry-installation.webp",
+      "dryrot-repair": "/images/service-dryrot-repair.webp"
+    },
+    "servicesResponsive": {
+      "structural-repairs": {
+        "src": "/images/service-structural-repairs.webp",
+        "srcset": "/images/service-structural-repairs-400w.webp 400w, /images/service-structural-repairs-800w.webp 800w, /images/service-structural-repairs-1200w.webp 1200w, /images/service-structural-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-decks-patios": {
+        "src": "/images/service-custom-decks-patios.webp",
+        "srcset": "/images/service-custom-decks-patios-400w.webp 400w, /images/service-custom-decks-patios-800w.webp 800w, /images/service-custom-decks-patios-1200w.webp 1200w, /images/service-custom-decks-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation-repair": {
+        "src": "/images/service-siding-installation-repair.webp",
+        "srcset": "/images/service-siding-installation-repair-400w.webp 400w, /images/service-siding-installation-repair-800w.webp 800w, /images/service-siding-installation-repair-1200w.webp 1200w, /images/service-siding-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-door-installation": {
+        "src": "/images/service-window-door-installation.webp",
+        "srcset": "/images/service-window-door-installation-400w.webp 400w, /images/service-window-door-installation-800w.webp 800w, /images/service-window-door-installation-1200w.webp 1200w, /images/service-window-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinetry-installation": {
+        "src": "/images/service-cabinetry-installation.webp",
+        "srcset": "/images/service-cabinetry-installation-400w.webp 400w, /images/service-cabinetry-installation-800w.webp 800w, /images/service-cabinetry-installation-1200w.webp 1200w, /images/service-cabinetry-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "dryrot-repair": {
+        "src": "/images/service-dryrot-repair.webp",
+        "srcset": "/images/service-dryrot-repair-400w.webp 400w, /images/service-dryrot-repair-800w.webp 800w, /images/service-dryrot-repair-1200w.webp 1200w, /images/service-dryrot-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
